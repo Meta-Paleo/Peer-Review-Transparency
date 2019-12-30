@@ -4,8 +4,8 @@ author: "Jon Tennant"
 date: "30 December 2019"
 output:
   word_document: default
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 # Introduction
@@ -167,6 +167,8 @@ Some of the items in this checklist will not be applicable to different types of
 * Are the results presented in a clear and coherent manner
 
 * Are the results reported in a way that is supported by the data
+
+* Is sufficient justification given for the erection of new taxa
 
 
 ### Involving quantitative analysis
