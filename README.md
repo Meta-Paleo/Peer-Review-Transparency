@@ -32,9 +32,10 @@ We strongly encourage others to participate in the project, propose their own id
 
 ## Citation
 
-Jon Tennant. (2019, October 8). Meta-Paleo/Peer-Review-Transparency: First release (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3476292
+Jon Tennant. (2019, December 30). Meta-Paleo/Peer-Review-Transparency: First release (Version v1.11). Zenodo. 
+https://doi.org/10.5281/zenodo.3595177
 
-<a href="https://doi.org/10.5281/zenodo.3476292"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3476292.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.3595177"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3595177.svg" alt="DOI"></a>
 
 ## License
 
