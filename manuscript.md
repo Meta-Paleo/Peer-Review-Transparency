@@ -1,12 +1,17 @@
 ---
 title: "Standardising Peer Review in Paleontology journals"
-author: "Jon Tennant"
+author: "Jonathan Tennant"
 date: "22 January 2020"
 output:
   word_document: default
   pdf_document: default
   html_document: default
 ---
+
+
+This article is a first-draft version for publication and will appear in a revised form. Please carefully note that subsequent versions of this manuscript may have different content. The present release version for this full project is also available on Zenodo:
+
+Jon Tennant. (2020, January 22). Meta-Paleo/Peer-Review-Transparency: 1.2 (Version 1.2). Zenodo. [http://doi.org/10.5281/zenodo.3621924](http://doi.org/10.5281/zenodo.3621924).
 
 # Introduction
 
@@ -273,3 +278,10 @@ Upon implementation of these guidelines, there are some important implications t
 
 # References
 
+1. Mayden, K.D., 2012. Peer review: Publication’s gold standard. Journal of the advanced practitioner in oncology, 3(2), p.117.
+
+1. Parker, T.H., Griffith, S.C., Bronstein, J.L., Fidler, F., Foster, S., Fraser, H., Forstmeier, W., Gurevitch, J., Koricheva, J., Seppelt, R. and Tingley, M.W., 2018. Empowering peer reviewers with a checklist to improve transparency. Nature ecology & evolution, 2(6), pp.929-935.
+
+1. Tennant, J.P. and Lomax, D.R., 2019. An overview of Open Access publishing in palaeontology. PALAEONTOLOGIA ELECTRONICA, 22(2).
+
+1. Wilkinson, M.D., Dumontier, M., Aalbersberg, I.J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.W., da Silva Santos, L.B., Bourne, P.E. and Bouwman, J., 2016. The FAIR Guiding Principles for scientific data management and stewardship. Scientific data, 3.
