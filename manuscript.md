@@ -10,75 +10,19 @@ output:
 
 # Introduction
 
+“However ill-defined it may be, the peer-review process is still the gold standard that will continue to drive scholarly publication.” 
 
+“While it is not a perfect process, traditional peer review remains the gold standard for evaluating and selecting quality scientific publications.”
 
+(Mayden, 2012)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093306/].
 
-“However ill-defined it may be, the peer-review process is still the gold standard that will continue to drive scholarly publication.” (source) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093306/
+That peer review operates as a 'gold standard' for scholarly research has become a common, institutionalised mantra. It is widely considered to be fundamental in maintaining the rigour and validity of scholarly research However, not only is peer review non-standardised, it also fails most basic tests of academic credibility and objectivity by being secretive, exclusive, and irreproducible. The process is often opaque, which can introduce bias into reporting standards for research and impact the overall quality of the published record. Despite being widely criticised, it remains almost ubiquitous as a critical part of scholarly communication systems. At the present, because we typically have almost no understanding of what peer review actually does, even generally, it can only be considered a 'pseudo-standard' at best. Training and support is generally lacking, and it is often the case that reviewers, through no fault of their own, are unaware of the critical questions to be asking with respect to research design, methods, reporting, and analysis. 
 
-I’m not really sure what this means. It sounds like, ‘no-one knows what peer review really is, but we’ll maintain it at the core of research anyway’..
-The same for..
-“While it is not a perfect process, traditional peer review remains the gold standard for evaluating and selecting quality scientific publications.” (source) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093306/
+In a modern knowledge production system, peer review is largely coupled to journals. Given that there are over 200 journals that publish palaeontology research (Tennant and Lomax, 2019), this can make the process confusing for reviewers, irrespective of their relative expertise. As these journals are mostly owned by commercial entities in paleontology, they have a primary duty to increase financial value, and not to improve scientific quality or legitimacy. Because of this, management of the function of peer review is not in the hands of the research community, which means that our collective responsibility to ensure that it is performed to a high standard of integrity has been compromised. It is our duty as scholars to be critical of all elements of knowledge production, and if peer review is to be considered to be any sort of test of integrity or validation, then we must improve it.
 
-We keep repeating this mantra in academia as a sort of shoulder shrug. My feeling on the matter is this:
-“How can something exclusive, secretive, and irreproducible be considered to be objective? How can something exclusive, secretive, and irreproducible be considered as a ‘gold standard’ of any sort?” (source) http://blog.scienceopen.com/2017/04/a-new-gold-standard-of-peer-review-is-needed/
+The aim of this project is to formulate a clear set of guidelines explicitly for reviewers in palaeontology journals, or multi-disciplinary journals that include palaeontology submissions. Through this, peer review can be more transparent and objective, representing a valid form of peer review best practice and part of responsible research conduct. It can also help to improve the soundness and reporting standards for palaeontology research as a whole, increasing the field's overall legitimacy. These guidelines were inspired by Parker et al. 2018, who created a similar checklist for the fields of ecology and evolution. Some of these points are adapted from the TTEE (Tools for Transparency in Ecology and Evolution) guidelines.
 
-Because of this, we have absolutely no idea what goes into the hyperdiverse process of peer review. We know that when something comes out, it is conferred the status and stamp of ‘peer reviewed’. For some bizarrely unscientific reason, we then maintain this as a pseudo-standard for validity and quality. Except we don’t actually have any knowledge of the process that led to this, because that’s how peer review largely works. Academic logic at its finest.
-Peer review fails peer review, and its own test of integrity and validation, and is one of the greatest ironies of the academic world.
-
-
-
-What we should be thinking about instead is how to inject some science into our primary method of ‘scientific validation’. Like any human endeavor, it will always be at least partially subjective, but that doesn’t mean we can try to eliminate many of the well-documented problems it has (see ‘Problems with peer review‘ here). https://f1000research.com/articles/6-588/v1
-
-I wrote about how peer review in general seems to be lacking any form of standardisation recently, due to its inherent traits of being exclusive, secretive, and irreproducible. We as the scientific community should be thinking more about the management, functionality, and process of peer review. It is our collective responsibility that peer review is held to the same high standards of integrity that we do for research. http://blog.scienceopen.com/2017/04/a-new-gold-standard-of-peer-review-is-needed/
-
-Until we can do this, I don’t think we should keep pretending that peer review is any sort of ‘gold standard’, because we just don’t have any evidence to support this. However, what we don’t want to create is another standard, if some already exist, as that would just be redundant.
-
-Some things that exist already
-•	Code of Conduct and best practice guidelines for journal editors (link) https://publicationethics.org/files/Code of Conduct_2.pdf
-•	COPE ethical guidelines for peer reviewers (link) https://publicationethics.org/files/Peer review guidelines_0.pdf
-•	Peer Reviewers Openness Initiative (link) https://opennessinitiative.org/
-•	A guide to peer review, British Ecological Society (link) http://www.britishecologicalsociety.org/wp-content/uploads/2016/04/Guide-to-Peer-Review.pdf
-•	Referee guidelines, Institute of Physics (link) http://ioppublishing.org/img/landingPages/guidelines-and-policies/referee-guidelines.html
-
-
-The COPE guidelines probably come closest to what we have as a standard: “The COPE Ethical Guidelines for Peer Reviewers set out the basic principles and standards to which all peer reviewers should adhere during the peer review process.“
-To me, these are mostly sets of principles or guidelines to ‘do a good job’. They don’t quite meet the idea of a ‘standard’, as they don’t define a level of technical quality or attainment that can be used for comparative purposes. Which is useful, say, for examining the utility and functionality of peer review. Guidelines also appear to be a bit too general and open to interpretation at times. The power of a standard comes in its specificity, which doesn’t really work too well for a process as diverse as peer review.
-
-I think the COPE guidelines are great, but that we could use them as the basis for something more. For example, having each item in the guidelines as a checklist for referees. Here, each peer review would have to satisfy a certain ‘quality’ threshold before it is accepted. This would, in my eyes, make it more of a ‘technical standard‘ (i.e., an operational checklist). Ultimately, this would also progress it towards conforming to an ‘open standard‘.
-
-https://en.wikipedia.org/wiki/Technical_standard
-
-https://en.wikipedia.org/wiki/Open_standard
-
-The main issue that arises is that an actual standard might stifle diversity and creativity in peer review. This is certainly not a good thing.
-
-Academics hate rules. A standard or set of guidelines creates a rigid system that research suffers far too much from already. The idea of implementing a standard for something as inherently diverse as peer review has potential desirable outcomes, such as increasing overall quality. But this might come at the cost of becoming too narrow or rigid a process. What we need is for peer review to remain flexible for different communities, but to still perform the basic tasks we hold it to.
-
-Really, the issue lies with pretending that peer review has any sort of standard as a process at all. The quality of peer review is impossible to assess, and therefore we can rarely see whether it has attained a certain threshold or not. It is impossible to quantify, again due to it being a hidden process, which means that we cannot use it for comparative purposes.
-
-So when people say ‘gold standard’ of peer review, I don’t really know what that means. It’s more like holding on to the concept of it as this magical process of validation and gatekeeping, when really we have very little idea if it actually does these effectively. In fact, much of the evidence suggests that peer review fails to even meet the most basic ideals that we hold it to. So practically, I think we need to explicitly stop calling peer review a ‘gold standard’ of any sort. But does this mean it needs to become ‘standardised’?
-
-All of these guidelines and principles represent more bureaucracy in an already bloated bureaucratic academia. Instead, we could and should be teaching students the reasons why peer review is important. Get this right, and you won’t need external guidelines, as they’ll be embedded as a culture anyway.
-What’s better: Having to go through a checklist for each peer review, or knowing in advance how to perform a high quality peer review?
-So instead of guidelines or standards, what we need is better training in the why of peer review. Imagine this as a couple of very simple examples:
-•	Why: High quality research is supposed to be reproducible; 
-o	Consequence: Referees request code and data etc. be made available during peer review to test results;
-•	Why: Published research is supposed to be valid; 
-o	Consequence: Referees make sure conclusions are supported by results;
-o	Consequence: Referees make sure analyses have been conducted correctly;
-•	Why: Published research is supposed to be high quality; 
-o	Consequence: Referees make sure research passes basic tests of integrity;
-o	Consequence: Peer review factors into objective assessments of research quality.
-These translations of principles to practices shows how teaching students/researchers why can lead to automatically conducting peer review at a higher level. How much better is this than telling students they have to do it as “part of their academic duty”.
-
-
-Peer review is widely considered to be fundamental in maintaining the rigour and validity of scholarly research. However, the process is often opaque, which can introduce bias into reporting standards for research and impact the overall quality of the published record.
-
-Presently, peer review is a non-standardised process, either across or within disciplines. Training and support is generally lacking, and it is often the case that reviewers, through no fault of their own, are unaware of the critical questions to be asking with respect to research design, methods, reporting, and analysis. Given that there are over 200 journals that publish palaeontology research (Tennant and Lomax, 2019), this can make the process confusing for reviewers, irrespective of their relative expertise. 
-
-The aim of this project is to formulate a clear set of guidelines explicitly for reviewers in palaeontology journals, or multi-disciplinary journals that include palaeontology submissions. Through this, peer review can be more transparent and as objective as possible, representing a form of peer review best practice. It can also help to improve the soundness and reporting standards for paleontology research as a whole.
-
-These guidelines were inspired by Parker et al. 2018, who created a similar checklist for the fields of ecology and evolution. Some of these points are adapted from the TTEE (Tools for Transparency in Ecology and Evolution) guidelines.
+The purpose of this operational checklist serves one primary purpose: For an article to 'pass' peer review, articles must satisfy a specific quality threshold based on standardised guidelines. Thus, the quality of the peer review process is simultaneously ensured through an open and technical standardisation process. This should be of interest to all stakeholders engaged in the publishing process, including authors, editors, reviewers, and the publishers themselves, who all have a duty to uphold the integrity of the published research record. While it might initially increase the bureaucracy involved in publishing, ultimately it should save time and effort as it becomes more widely established as an embedded scholarly norm, with integrity a formative part of peer review culture. 
 
 # Guidelines
 
@@ -285,6 +229,12 @@ It is designed to provide a baseline standard for research such that minimum sta
 Individual reviewers can find this useful. Journals can also integrate these guidelines into their reviewer policies as part of ensuring that they are faciliating peer review to a sufficient quality standard.
 
 * If we have appropriate standards for defining quality in peer review, then we no longer need to have secondary and redundant forms of post hoc evaluation based on things like journal brands.
+
+These guidelines can also be used as an objective checklist for authors. If these things are all appropriately checked prior to submission, then substantial time, money, and effort can be saved during the review process. Peer review, then, can be focused more on intellectual discourse, and becomes part of the palaeontology community's collective responsibility to assure. Because of this, these guidelines are not a replacement for peer review; they are a compliment to the traditional process, and when combined can improve the creativity, intellectual diversity, and operational functionality of the process. Furthermore, just because research passes these guidelines, it does not automatically mean that it should be accepted for publication; however, the onus will then be on editorial standards to justify rejection of research, should it be scientifically sound.
+
+The validity of a piece of research is qualified through an objective quality assurance process, and not just arbitrarily assumed based on a binary process of whether it was peer reviewed or not. For something to be standardised, it has to attain a specific level of technical quality for comparative purposes. For example, examining the utility and functionality of both peer review, and the quality of published scholarly research.
+
+With this checklist in mind, it also becomes contingent on reviewers to make sure that they themselves have the scholarly expertise to check such things. This will include a relevant knowledge of any methods, as well as a mastery of the relevant scholarly literature.
 
 
 References
