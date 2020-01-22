@@ -1,7 +1,7 @@
 ---
 title: "Standardising Peer Review in Paleontology journals"
 author: "Jon Tennant"
-date: "30 December 2019"
+date: "22 January 2020"
 output:
   word_document: default
   pdf_document: default
@@ -14,13 +14,13 @@ output:
 
 “While it is not a perfect process, traditional peer review remains the gold standard for evaluating and selecting quality scientific publications.”
 
-(Mayden, 2012)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093306/].
+[Mayden, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093306/).
 
 That peer review operates as a 'gold standard' for scholarly research has become a common, institutionalised mantra. It is widely considered to be fundamental in maintaining the rigour and validity of scholarly research However, not only is peer review non-standardised, it also fails most basic tests of academic credibility and objectivity by being secretive, exclusive, and irreproducible. The process is often opaque, which can introduce bias into reporting standards for research and impact the overall quality of the published record. Despite being widely criticised, it remains almost ubiquitous as a critical part of scholarly communication systems. At the present, because we typically have almost no understanding of what peer review actually does, even generally, it can only be considered a 'pseudo-standard' at best. Training and support is generally lacking, and it is often the case that reviewers, through no fault of their own, are unaware of the critical questions to be asking with respect to research design, methods, reporting, and analysis. 
 
-In a modern knowledge production system, peer review is largely coupled to journals. Given that there are over 200 journals that publish palaeontology research (Tennant and Lomax, 2019)[https://palaeo-electronica.org/content/2019/2548-open-access-in-palaeontology], this can make the process confusing for reviewers, irrespective of their relative expertise. As these journals are mostly owned by commercial entities in paleontology, they have a primary duty to increase financial value, and not to improve scientific quality or legitimacy. Because of this, management of the function of peer review is not in the hands of the research community, which means that our collective responsibility to ensure that it is performed to a high standard of integrity has been compromised. It is our duty as scholars to be critical of all elements of knowledge production, and if peer review is to be considered to be any sort of test of integrity or validation, then we must improve it.
+In a modern knowledge production system, peer review is largely coupled to journals. Given that there are over 200 journals that publish palaeontology research [Tennant and Lomax, 2019](https://palaeo-electronica.org/content/2019/2548-open-access-in-palaeontology), this can make the process confusing for reviewers, irrespective of their relative expertise. As these journals are mostly owned by commercial entities in paleontology, they have a primary duty to increase financial value, and not to improve scientific quality or legitimacy. Because of this, management of the function of peer review is not in the hands of the research community, which means that our collective responsibility to ensure that it is performed to a high standard of integrity has been compromised. It is our duty as scholars to be critical of all elements of knowledge production, and if peer review is to be considered to be any sort of test of integrity or validation, then we must improve it.
 
-The aim of this project is to formulate a clear set of guidelines explicitly for reviewers in palaeontology journals, or multi-disciplinary journals that include palaeontology submissions. Through this, peer review can be more transparent and objective, representing a valid form of peer review best practice and part of responsible research conduct. It can also help to improve the soundness and reporting standards for palaeontology research as a whole, increasing the field's overall legitimacy. These guidelines were inspired by (Parker et al. 2018)[https://www.nature.com/articles/s41559-018-0545-z], who created a similar checklist for the fields of ecology and evolution. Some of these points are adapted from the TTEE (Tools for Transparency in Ecology and Evolution) guidelines.
+The aim of this project is to formulate a clear set of guidelines explicitly for reviewers in palaeontology journals, or multi-disciplinary journals that include palaeontology submissions. Through this, peer review can be more transparent and objective, representing a valid form of peer review best practice and part of responsible research conduct. It can also help to improve the soundness and reporting standards for palaeontology research as a whole, increasing the field's overall legitimacy. These guidelines were inspired by [Parker et al. 2018](https://www.nature.com/articles/s41559-018-0545-z), who created a similar checklist for the fields of ecology and evolution. Some of these points are adapted from the TTEE (Tools for Transparency in Ecology and Evolution) guidelines.
 
 The purpose of this operational checklist serves one primary purpose: For an article to 'pass' peer review, articles must satisfy a specific quality threshold based on standardised guidelines. Thus, the quality of the peer review process is simultaneously ensured through an open and technical standardisation process. This should be of interest to all stakeholders engaged in the publishing process, including authors, editors, reviewers, and the publishers themselves, who all have a duty to uphold the integrity of the published research record. While it might initially increase the bureaucracy involved in publishing, ultimately it should save time and effort as it becomes more widely established as an embedded scholarly norm, with integrity a formative part of peer review culture.
 
@@ -117,7 +117,7 @@ Some of the items in this checklist will not be applicable to different types of
 
 * Is the history of the research sufficiently described?
 
-* Are there any uneccessary or irrelevant references included?
+* Are there any unnecessary or irrelevant references included?
 
 
 ## Methods
@@ -130,7 +130,7 @@ Some of the items in this checklist will not be applicable to different types of
 
 * Are the supporting data included in the manuscript or in a relevant repository?
 
-* Are the data presented in a way that is consistent with the FAIR principles? (Findable, Accessible, Interoperable, Reusable), (Wilkinson et al., 2016)[https://www.nature.com/articles/sdata201618].
+* Are the data presented in a way that is consistent with the FAIR principles? (Findable, Accessible, Interoperable, Reusable), [Wilkinson et al., 2016](https://www.nature.com/articles/sdata201618).
 
 * When were the data collected?
 
@@ -209,7 +209,7 @@ Some of the items in this checklist will not be applicable to different types of
 
 * Are the results presented in a clear and coherent manner?
 
-* Are all results reported, or are some ommitted?
+* Are all results reported, or are some omitted?
 
 * Are the results reported in a way that is supported by the data?
 
@@ -221,7 +221,7 @@ Some of the items in this checklist will not be applicable to different types of
 
 * Are appropriate test statistics reported, including the degrees of freedom and p-values?
 
-* For Bayesian analyses, have all results been reported, at a minimum including information on choice of priors and MCMC (Markov chain Monte Carlo) settings (e.g. burn-in, the number of iterations, and thinning intervals)?
+* For Bayesian analyses, have all results been reported, at a minimum including information on choice of priors and MCMC (Markov Chain Monte Carlo) settings (e.g. burn-in, the number of iterations, and thinning intervals)?
 
 ### Involving fossil specimens
 
@@ -259,12 +259,12 @@ Some of the items in this checklist will not be applicable to different types of
 
 * Are the conclusions supported by the results?
 
-* Are the conclusions consise and not over-embellished?
+* Are the conclusions concise and not over-embellished?
 
 
 # Discussion
 
-Above, we have provided guidance on a specific, itemised check-list for peer review of palaeontology research. This is an important step in standardising the peer review process, and improving the quality of published palaeontology research. Its effectiveness will be realised when it is uptaken by palaeontology journals, who can integrate these guidelines into their reviewer policies as part of ensuring that they are faciliating peer review to a sufficient quality standard. These guidelines can also be used as an objective checklist for authors. If these items are all appropriately checked prior to submission, then substantial time, money, and effort can be saved during the review process.
+Above, we have provided guidance on a specific, itemised check-list for peer review of palaeontology research. This is an important step in standardising the peer review process, and improving the quality of published palaeontology research. Its effectiveness will be realised when it is up-taken by palaeontology journals, who can integrate these guidelines into their reviewer policies as part of ensuring that they are facilitating peer review to a sufficient quality standard. These guidelines can also be used as an objective checklist for authors. If these items are all appropriately checked prior to submission, then substantial time, money, and effort can be saved during the review process.
 
 This checklist is not designed as a replacement for peer review, or for critical thinking and the application of wider forms of expertise. Nor do we make recommendations about how researchers should subjectively assess the 'impact' or 'quality' of a study. The primary design is to provide a baseline standard for research such that minimum standards of reporting quality are met, which is part of the palaeontology community's collective responsibility to assure. They are a compliment to traditional peer review, and when combined can improve the creativity, intellectual diversity, and operational functionality of the process.With this checklist in mind, it also becomes contingent on reviewers to make sure that they themselves have the scholarly expertise to check such things. This will include a relevant knowledge of any methods, as well as a mastery of the relevant scholarly literature.
 
