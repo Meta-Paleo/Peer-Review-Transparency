@@ -18,70 +18,102 @@ output:
 
 That peer review operates as a 'gold standard' for scholarly research has become a common, institutionalised mantra. It is widely considered to be fundamental in maintaining the rigour and validity of scholarly research However, not only is peer review non-standardised, it also fails most basic tests of academic credibility and objectivity by being secretive, exclusive, and irreproducible. The process is often opaque, which can introduce bias into reporting standards for research and impact the overall quality of the published record. Despite being widely criticised, it remains almost ubiquitous as a critical part of scholarly communication systems. At the present, because we typically have almost no understanding of what peer review actually does, even generally, it can only be considered a 'pseudo-standard' at best. Training and support is generally lacking, and it is often the case that reviewers, through no fault of their own, are unaware of the critical questions to be asking with respect to research design, methods, reporting, and analysis. 
 
-In a modern knowledge production system, peer review is largely coupled to journals. Given that there are over 200 journals that publish palaeontology research (Tennant and Lomax, 2019), this can make the process confusing for reviewers, irrespective of their relative expertise. As these journals are mostly owned by commercial entities in paleontology, they have a primary duty to increase financial value, and not to improve scientific quality or legitimacy. Because of this, management of the function of peer review is not in the hands of the research community, which means that our collective responsibility to ensure that it is performed to a high standard of integrity has been compromised. It is our duty as scholars to be critical of all elements of knowledge production, and if peer review is to be considered to be any sort of test of integrity or validation, then we must improve it.
+In a modern knowledge production system, peer review is largely coupled to journals. Given that there are over 200 journals that publish palaeontology research (Tennant and Lomax, 2019)[https://palaeo-electronica.org/content/2019/2548-open-access-in-palaeontology], this can make the process confusing for reviewers, irrespective of their relative expertise. As these journals are mostly owned by commercial entities in paleontology, they have a primary duty to increase financial value, and not to improve scientific quality or legitimacy. Because of this, management of the function of peer review is not in the hands of the research community, which means that our collective responsibility to ensure that it is performed to a high standard of integrity has been compromised. It is our duty as scholars to be critical of all elements of knowledge production, and if peer review is to be considered to be any sort of test of integrity or validation, then we must improve it.
 
-The aim of this project is to formulate a clear set of guidelines explicitly for reviewers in palaeontology journals, or multi-disciplinary journals that include palaeontology submissions. Through this, peer review can be more transparent and objective, representing a valid form of peer review best practice and part of responsible research conduct. It can also help to improve the soundness and reporting standards for palaeontology research as a whole, increasing the field's overall legitimacy. These guidelines were inspired by Parker et al. 2018, who created a similar checklist for the fields of ecology and evolution. Some of these points are adapted from the TTEE (Tools for Transparency in Ecology and Evolution) guidelines.
+The aim of this project is to formulate a clear set of guidelines explicitly for reviewers in palaeontology journals, or multi-disciplinary journals that include palaeontology submissions. Through this, peer review can be more transparent and objective, representing a valid form of peer review best practice and part of responsible research conduct. It can also help to improve the soundness and reporting standards for palaeontology research as a whole, increasing the field's overall legitimacy. These guidelines were inspired by (Parker et al. 2018)[https://www.nature.com/articles/s41559-018-0545-z], who created a similar checklist for the fields of ecology and evolution. Some of these points are adapted from the TTEE (Tools for Transparency in Ecology and Evolution) guidelines.
 
-The purpose of this operational checklist serves one primary purpose: For an article to 'pass' peer review, articles must satisfy a specific quality threshold based on standardised guidelines. Thus, the quality of the peer review process is simultaneously ensured through an open and technical standardisation process. This should be of interest to all stakeholders engaged in the publishing process, including authors, editors, reviewers, and the publishers themselves, who all have a duty to uphold the integrity of the published research record. While it might initially increase the bureaucracy involved in publishing, ultimately it should save time and effort as it becomes more widely established as an embedded scholarly norm, with integrity a formative part of peer review culture. 
+The purpose of this operational checklist serves one primary purpose: For an article to 'pass' peer review, articles must satisfy a specific quality threshold based on standardised guidelines. Thus, the quality of the peer review process is simultaneously ensured through an open and technical standardisation process. This should be of interest to all stakeholders engaged in the publishing process, including authors, editors, reviewers, and the publishers themselves, who all have a duty to uphold the integrity of the published research record. While it might initially increase the bureaucracy involved in publishing, ultimately it should save time and effort as it becomes more widely established as an embedded scholarly norm, with integrity a formative part of peer review culture.
+
 
 # Guidelines
 
-These guidelines are presented in a way that reflects the typical structure for research articles. Specific sections are provided for articles that either involved quantitative research or the use of fossil specimens.
+These guidelines are presented in a way that reflects the typical structure for research articles. They are presented as a specific checklist of items or questions to be fulfilled during the review process, and are written from the perspective of the reviewers. Specific sections are provided for articles that either involved quantitative research or the use of fossil specimens. Modern palaeontology research usually falls into two categories:
 
-Some of the items in this checklist will not be applicable to different types of research paper.
+1. Quantitative, involving data analysis and statistical methods.
+
+2. Qualitative, involving the systematic description of new species or specimens.
+
+Some of the items in this checklist will not be applicable to different types of research paper. Some paleontology journals also only publish on specific types of research, and thus these guidelines remain operationally flexible to accommodate different selective publishing criteria.
 
 ## General 
 
-* Have any relevant funding sources been disclosed
+* Have any relevant funding sources been disclosed?
 
-* Have any relevant conflicts of interest been disclosed
+* Have any relevant conflicts of interest been disclosed? This can include editorial and institutional positions, any sources of income, and any other positions of authority that each of the authors might have.
 
-* Have any previous versions of this work been indicated (e.g., preprints or pre-registrations)
+* Have any previous versions of this work been indicated (e.g., preprints or pre-registrations)? If so, is this clear and all relevant links provided?
 
-* Is the language used appropriate for a scientific publication
+* Is the language used appropriate for a scientific publication?
 
-* Is the manuscript structure appropriate
+* Is the manuscript structure appropriate?
+
+* Have all relevant acknowledgements been made? This can include where materials were viewed or loaned from, where any technical analyses were conducted and by whom, and anyone or anything else that contributed to the research process.
 
 ### Figures
 
-* Are any figures legible, relevant, and integrated into the text
+* Are any figures legible, relevant, and integrated into the text?
+
+* Do all figures have alt-text to help those who might be visually impaired?
+
+* Are figure files provided in their raw formats?
+
+* Is the association between figures and the underlying data/methods needed to recreate them visible?
 
 ### Tables
 
-* Are any tables legible, relevant, and integrated into the text
+* Are any tables legible, relevant, and integrated into the text?
+
+* Are the tables provided in both machine-readable and human-readable formats?
+
+* Is it clear where the information contained within the tables have been sourced from?
 
 ### Supplementary files
 
-* Are all supplementary files provided in non-proprietary formats and in a sustainable manner
+* Are all supplementary files provided in non-proprietary formats and in a sustainable manner?
 
-* Are all supplementary files referenced within the main text
+* Are all supplementary files referenced within the main text?
+
+* Is there information within the supplementary files that is critical to the research, and should thus be in the main manuscript?
+
+* Are all supplementary files also archived within a suitable repository outside of the journal?
+
+* Do all supplementary files have Digital Object Identifiers (DOIs) to help with their citation and re-use?
+
+* Is all information within the supplementary files also of a scientific standard, including with appropriate references?
 
 ## Abstract
 
-* Is the abstract concise, conveying the main research findings
+* Is the abstract concise, conveying the main research findings?
 
-* Are any key conclusions missing
+* Are any key conclusions missing?
 
+* Does the abstract over-embellish the key findings?
 
 ## Introduction
 
-* What type of study is this (e.g., replication, exploratory, meta-review)
+* What type of study is this (e.g., original research replication, exploratory, meta-review)?
 
-* What is the primary purpose for conducting this study
+* What is the primary purpose for conducting this study?
 
-* Is this part of a larger study, or a one-off
+* Is this part of a larger study, or a one-off?
 
-* What are the specific research questions addressed
+* What are the specific research questions addressed?
 
-* What is the scope of the study
+* Are all primary hypotheses that were tested sufficiently described?
 
-* Is the published literature covered sufficiently
+* Is there any evidence of HARK-ing (Hypothesising After the Results are Known)?
 
-* Are any critical published articles missing
+* What is the scope of the study?
 
-* Are any appropriate angles or context missing
+* Is the published literature covered sufficiently in depth and breadth?
 
-* Is the history of the research sufficiently described
+* Are any relevant previously published articles missing?
+
+* Are any appropriate angles or context missing?
+
+* Is the history of the research sufficiently described?
+
+* Are there any uneccessary or irrelevant references included?
 
 
 ## Methods
