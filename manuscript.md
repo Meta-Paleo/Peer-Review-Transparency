@@ -1,11 +1,11 @@
 ---
 title: "Standardising Peer Review in Paleontology journals"
 author: "Jonathan Tennant"
-date: "22 January 2020"
+date: "02 February 2020"
 output:
   word_document: default
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 
@@ -15,11 +15,7 @@ Jon Tennant. (2020, January 22). Meta-Paleo/Peer-Review-Transparency: 1.2 (Versi
 
 # Introduction
 
-“However ill-defined it may be, the peer-review process is still the gold standard that will continue to drive scholarly publication.” 
-
-“While it is not a perfect process, traditional peer review remains the gold standard for evaluating and selecting quality scientific publications.”
-
-[Mayden, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093306/).
+“While it is not a perfect process, traditional peer review remains the gold standard for evaluating and selecting quality scientific publications.” - [Mayden, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093306/).
 
 That peer review operates as a 'gold standard' for scholarly research has become a common, institutionalised mantra. It is widely considered to be fundamental in maintaining the rigour and validity of scholarly research. However, not only is peer review non-standardised, it also fails most basic tests of academic credibility and objectivity by being secretive, exclusive, and irreproducible. The process is often opaque, which can introduce bias into reporting standards for research and impact the overall quality of the published record. Despite being widely criticised, it remains almost ubiquitous as a critical part of scholarly communication systems. At the present, because we typically have almost no understanding of what peer review actually does, even generally, it can only be considered a 'pseudo-standard' at best. Training and support is generally lacking, and it is often the case that reviewers, through no fault of their own, are unaware of the critical questions to be asking with respect to research design, methods, reporting, and analysis. 
 
@@ -65,6 +61,16 @@ Some of the items in this checklist will not be applicable to different types of
 * Is the association between figures and the underlying data/methods needed to recreate them visible?
 
 * Are any three-dimensional figures presented in a three-dimensional format?
+
+* Do figure formats show distribution data clearly?
+
+* Are individual data points clearly identifiable?
+
+* Are error bars present and clearly-defined? (i.e., as standard deviations, standard errors, or confidence intervals)
+
+* Is there any evidence of image manipulation or duplication?
+
+* Have red and green colours been avoided for contrast?
 
 ### Tables
 
@@ -131,9 +137,17 @@ Some of the items in this checklist will not be applicable to different types of
 
 * When was this study started and for how long was its duration?
 
+* Has the study been pre-registered?
+
+* Were any specific measures taken to help ensure the reproducibility of experimental findings?
+
+* Were any attempts made to repeat the experiments made, and were they successful or failed?
+
 ### Data collection
 
 * Are the supporting data included in the manuscript or in a relevant repository?
+
+* Is a data availability statement included, with information on any required identifiers, URLs, accession codes, and any potential accessibility restrictions?
 
 * Are the data presented in a way that is consistent with the FAIR principles? (Findable, Accessible, Interoperable, Reusable), [Wilkinson et al., 2016](https://www.nature.com/articles/sdata201618).
 
@@ -147,13 +161,21 @@ Some of the items in this checklist will not be applicable to different types of
 
 * Were data collected and vetted by all, some, or just one of the authors?
 
+* How were the data recorded?
+
 * Were data obtained from previously published sources, or unpublished sources?
 
-* Is justification given for data that were collected but not including in the final analyses?
+* Were measurement data taken from distinct samples, or from one sample repeatedly?
+
+* Is justification given for data that were collected but excluded from the final analyses?
+
+* Where any exclusion criteria pre-established, or decided on after the data had been collected?
 
 * Are potential biases assessed and, if so, mitigated (e.g., publication bias, missing data, or selective reporting within studies)?
 
-* Is it clear how representative the data are of reality?
+* Has the sampling strategy been appropriately described, including the sampling procedure, methods used to predetermine the sample size (where relevant), or justification for why the sample size used is sufficient.
+
+* Is it clear how well representative the data are of reality?
 
 * Is it clear about how the data might change in the future based on new acquisitions or publications? As in, how stable are these data to future research?
 
@@ -163,16 +185,24 @@ Some of the items in this checklist will not be applicable to different types of
 
 ### Involving fossil specimens
 
-* If relevant, possible and allowable, are all voucher specimens of the studied taxon/taxa deposited in an appropriate and publicly curated collection, with accessing numbers?
+* If relevant, possible and allowable, are all specimens of the studied taxon/taxa deposited in an appropriate, accessible, and publicly-curated collection, with accessing numbers?
+
+* For any newly identified taxa, has an appropriate LSID (Life Sciences Identifier) from [ZooBank](http://zoobank.org/) been obtained and recorded?
 
 * Were all relevant permits and permissions obtained to study specimens, and to publicise them?
+
+* For permits, have the names of the relevant issuing authorities, dates of issue, and any other relevant information been included?
+
+* Have the recommendations for three-dimensional digital morphology data proposed by [Davies et al., 2017](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0194) been followed appropriately?
+
+* For ichnological data, have the standardised documentation protocols by [Falkingham et al., 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12373) been followed appropriately?
 
 * Are all relevant contextual information provided? This includes:
 
   * Taxon name
   * Taxonomic level
   * Geological setting
-  * Age of specimen, both stratigraphically and in Ma, with justification given
+  * Age of specimen, both stratigraphically and in Ma, with justification given for how they were obtained and quality assured
   * Horizon of discovery, including bed, member, formation, and group
   * Lithology specimen discovered in, and environmental interpretations
   * Geographic location of specimen, including GPS co-ordinates and latitude and longitude
@@ -194,21 +224,35 @@ Some of the items in this checklist will not be applicable to different types of
 
 * Were any assumptions, simplifications, or transformations to the data made?
 
+* Have any tests for normality been applied to the data?
+
+* Have any adjustments for multiple comparisons been made?
+
 * Are any methods of weighting applied, and justifications for this given?
 
 * If methods have been previously published, are relevant citations given?
 
-* What statistical tests were formed, and why were they chosen?
+* What statistical tests were formed, and why were they chosen? Were they one-sided or two-sided tests?
 
-* What is the total sample size?
+* For any new statistical or more compley methods, is a thorough description provided?
+
+* What is the total sample size (n) for each experimental group or parameter, and are the units of measurement provided?
+
+* Is a description of all covariates tested provided?
+
+* For Baysian analysis, has information on choice of priors and MCMC (Markov Chain Monte Carlo) settings been included?
+
+* Where randomisation is needed, has it been described how samples were divided into groups, and if not, how covariates were controlled?
 
 ### Software environment
 
-* Are all software packages and scripts identified, including their versions, availability, and annotated full code or set of commands, provided?
+* Are all software packages, algorithms, and scripts identified, including their versions, availability, and annotated full code or sets of commands, provided? This includes custom code, Free and Open Source Software (FOSS), and any commercial software for both data collection and data analysis.
 
 * Is the full model specification provided, including specific parameter choices and their justification?
 
 * Are all software and scripts available in a public repository and under an appropriate FOSS license?
+
+* Is a sotware/code availability statement included in the manuscript?
 
 
 ## Results
@@ -223,11 +267,11 @@ Some of the items in this checklist will not be applicable to different types of
 
 ### Involving quantitative analysis
 
-* Are the full outcomes of statistical tests reported, including basic parameter estimates of central tendency (e.g., means), other basic estimates (e.g., regression and correlation coefficients), and variability (e.g., standard deviation) and associated estimates of uncertainty (e.g., confidence or credibility intervals)?
+* Are the full outcomes of statistical tests reported, including basic parameter estimates of central tendency (e.g., means), other basic estimates (e.g., regression and correlation coefficients), and variability (e.g., standard deviation, standard error) and associated estimates of uncertainty (e.g., confidence or credibility intervals)?
 
-* Are appropriate test statistics reported, including the degrees of freedom and p-values?
+* For null hypothesis testing, are all appropriate test statistics reported with confidence intervals, effect sizes (e.g., Pearson's r), degrees of freedom (e.g., for ANOVAs and t-tests), and exact values for both non-significant and significant p-values?
 
-* For Bayesian analyses, have all results been reported, at a minimum including information on choice of priors and MCMC (Markov Chain Monte Carlo) settings (e.g. burn-in, the number of iterations, and thinning intervals)?
+* For Bayesian analyses, have all results been reported (e.g. burn-in, the number of iterations, and thinning intervals)?
 
 ### Involving fossil specimens
 
@@ -277,7 +321,16 @@ This checklist is not designed as a replacement for peer review, or for critical
 Upon implementation of these guidelines, there are some important implications to further consider. Just because research passes these guidelines, it does not automatically mean that it should be accepted for publication; however, the onus will then be on editorial standards to justify rejection of research, should it be scientifically sound. Furthermore, if we have appropriate, community-driven and objective standards for defining quality in peer review, then it might be the case that we no longer need to have secondary and redundant forms of post hoc evaluation based on things like journal brands or impact factors. The validity of a piece of research is qualified through an objective quality assurance process, and not just arbitrarily assumed based on a binary process of whether it was peer reviewed or not. For something to be standardised, it has to attain a specific level of technical quality for comparative purposes. For example, examining the utility and functionality of both peer review, and the quality of published scholarly research. These guidelines provide this.
 
 
+# Acknowledgements
+
+Thank you to Luíseach Nic Eoin, Senior Editor at Nature Ecology and Evolution, for sharing some useful resources from Nature Research that helped to strengthen an earlier version of this manuscript.
+
+
 # References
+
+1. Davies, T.G., Rahman, I.A., Lautenschlager, S., Cunningham, J.A., Asher, R.J., Barrett, P.M., Bates, K.T., Bengtson, S., Benson, R.B., Boyer, D.M. and Braga, J., 2017. Open data and digital morphology. Proceedings of the Royal Society B: Biological Sciences, 284(1852), p.20170194.
+
+1. Falkingham, P.L., Bates, K.T., Avanzini, M., Bennett, M., Bordy, E.M., Breithaupt, B.H., Castanera, D., Citton, P., Díaz‐Martínez, I., Farlow, J.O. and Fiorillo, A.R., 2018. A standard protocol for documenting modern and fossil ichnological data. Palaeontology, 61(4), pp.469-480.
 
 1. Mayden, K.D., 2012. Peer review: Publication’s gold standard. Journal of the advanced practitioner in oncology, 3(2), p.117.
 
